@@ -1,5 +1,5 @@
 # Cache de entorno Python
-__pycache__/
+**/__pycache__/
 
 # Entorno virutal VSCODE
-venv/
+**/venv/
